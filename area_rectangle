@@ -1,0 +1,5 @@
+def rectangle(length,width):
+    print("Area of rectangle is: ",length*width)
+
+
+rectangle(12,122)
