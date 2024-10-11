@@ -13,4 +13,4 @@ class Demo(A, B):
 
 d = Demo()
 d.display() # Output: C
-print(Demo.mro()) # Output: [<class '__main__.Demo'>, <class '__main__.A'>, <class '__main__.B'>, <class 'object'>]
+print(Demo.mro()) # Output: [<class '__ma in__.Demo'>, <class '__main__.A'>, <class '__main__.B'>, <class 'object'>]
